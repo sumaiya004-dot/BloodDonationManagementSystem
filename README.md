@@ -1,3 +1,8 @@
+## Project Video
+
+- **Click here to watch the video recording** : [Click here](https://drive.google.com/your-video-link)
+
+
 # 🩸 Blood Donation Management System
 
 A Java Swing desktop application to efficiently manage donors, blood banks, and donations with a **user-friendly, dark-themed interface**, robust validation, and persistent local storage.
