@@ -1,6 +1,8 @@
 ## Project Video
 
-- **Click here to watch the video recording** : [Click here]([https://drive.google.com/your-video-link](https://drive.google.com/file/d/1Z0yZGNgEVfPgLxJ4bvvpwg9iT0W3canq/view?usp=drive_link))
+- **Click here to watch the video recording**: [Click here](https://drive.google.com/file/d/1Z0yZGNgEVfPgLxJ4bvvpwg9iT0W3canq/view?usp=drive_link)
+
+
 
 
 # 🩸 Blood Donation Management System
