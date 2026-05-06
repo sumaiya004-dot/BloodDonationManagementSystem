@@ -1,16 +1,3 @@
-# Project Submission
-
-- Name: Sumaiya Islam Chowdhury
-- ID:  241-134-002
-
----
-
-## Project Video
-
-- **Click here to watch the video recording**: [Click here](https://drive.google.com/file/d/1Z0yZGNgEVfPgLxJ4bvvpwg9iT0W3canq/view?usp=drive_link)
-
----
-
 # 🩸 Blood Donation Management System
 
 A Java Swing desktop application to efficiently manage donors, blood banks, and donations with a **user-friendly, dark-themed interface**, robust validation, and persistent local storage.
@@ -85,3 +72,13 @@ javac -d out src/*.java
 
 # Run the application
 java -cp out BloodDonationSystem
+
+---
+
+# Project Submission
+
+- Name: Sumaiya Islam Chowdhury
+- ID:  241-134-002
+
+---
+
